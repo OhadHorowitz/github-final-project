@@ -1,2 +1,15 @@
-# github-final-project
-A Bash script to calculate simple interest with community contribution guidelines
+# Simple Interest Calculator
+
+A calculator that calculates simple interest given the principal amount, annual rate of interest, and time period in years.
+
+## Input:
+- **p**: Principal amount
+- **t**: Time period in years
+- **r**: Annual rate of interest
+
+## Output:
+- Simple Interest = p * t * r
+
+## Usage:
+This script is intended for micro-finance projects to help calculate simple interest on loans or savings.
+
